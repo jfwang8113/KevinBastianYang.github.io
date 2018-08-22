@@ -6,7 +6,7 @@ layout: page
 
 <img src="/images/cam.jpg" class="floatpic" width="1080" height="1440">
 'beauty is truth, truth beauty,'-that is all ye know on earth, and all ye need to know.
-                                                                         ###--John Keats
+<b>--John Keats</b>
 
 ## Research Interests
 

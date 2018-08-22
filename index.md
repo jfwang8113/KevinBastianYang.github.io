@@ -5,21 +5,14 @@ layout: page
 # About Me
 
 <img src="/images/cam.jpg" class="floatpic" width="1080" height="1440">
-'beauty is truth, truth beauty,'-that is all ye know on earth, and all ye need to know.
-<b>--John Keats</b>
+There is one line of John Keats's poems that I love most:<b> 'beauty is truth, truth beauty,'-that is all ye know on earth, and all ye need to know.</b> To me, beauty lies in the infinity and mystery of biological science, which lets you know what you are capable of and what you are not.
 
 ## Research Interests
 
-- Biomedical Image Understanding
+I have a broad interest in bioinformatical area, the following is what I'm fousing on currently.
 
-We design machine learning algorithms for the annotation, clustering and segmentation of biomedical images, including spatial gene expression images, cryo-EM single-particle images, tissue/cell images, etc.  
+-Computational Genomics
+--Single cell RNA-seq downstream method development
+--Alternative splicing event prediction
 
-
-- Biological Language Modeling
-
-We regard biological sequences (DNA/RNA sequences and amino acid sequences) as a special kind of language, and explore biomolecular structure and functions based on sequence analysis using statistical language models, k-mer embeddings and deep learning models.   
-
-
-- Machine Learning and Data Mining
-
-We develop algorithms to deal with large scale, imbalanced and multi-label classification problems, mainly from the biomedical field.
+-Bioinformatics related tools developmet: database, web server, etc.

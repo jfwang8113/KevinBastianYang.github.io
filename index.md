@@ -19,8 +19,5 @@ I have a broad interest in bioinformatical and biostatistical area, the followin
 
 
 
-<span id="busuanzi_container_site_uv">
-  本站访客数<span id="busuanzi_value_site_u</span>人次
-</span>
 
 

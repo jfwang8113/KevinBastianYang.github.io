@@ -23,4 +23,4 @@ Participated in the Shanghai Jiao Tong 15th College students’ innovative pract
 
 ### Publication
 
-Computational prediction and functional analysis of arsenic binding proteins in human cells, The 12th International Conference on Computational Systems Biology. Shichao Pang, <b>Junchen Yang</b>, Yilei Zhao, Yixue Li and Jingfang Wang (submitted and under review)
+- Computational prediction and functional analysis of arsenic binding proteins in human cells, The 12th International Conference on Computational Systems Biology. Shichao Pang, <b>Junchen Yang</b>, Yilei Zhao, Yixue Li and Jingfang Wang (submitted and under review)

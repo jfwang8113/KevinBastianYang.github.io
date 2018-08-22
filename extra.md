@@ -8,7 +8,7 @@ title: Extra
 - Sports Zealot
 
 Basketball(school team player), Badminton, Volleyball, Hiking, Cycling, Long-range runnning...
-<img src="/images/basb.JPG" class="floatpic" width="449" height="300">
+<img src="/images/basb.JPG" class="floatpic" width="220" height="150">
 
 - Student activities
 

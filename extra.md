@@ -17,3 +17,10 @@ As vice president of the student union of School of Life Science and Biotechnolo
 - Movie Superfans
 
 Only god can count how many movies I've watched in these years...
+
+
+
+<span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_u</span>人次
+</span>
+

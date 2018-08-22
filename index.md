@@ -9,10 +9,10 @@ There is one line of John Keats's poems that I love most:<b> 'beauty is truth, t
 
 ## Research Interests
 
-I have a broad interest in bioinformatical area, the following is what I'm fousing on currently.
+I have a broad interest in bioinformatical and biostatistical area, the following is what I'm fousing on currently.
 
--Computational Genomics
---Single cell RNA-seq downstream method development
---Alternative splicing event prediction
+-Computational Genomics: algorithm development, model construction, etc.
 
 -Bioinformatics related tools developmet: database, web server, etc.
+
+

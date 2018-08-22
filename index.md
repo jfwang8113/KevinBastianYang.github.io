@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/photo.JPG" class="floatpic" width="482" height="326">
+<img src="/images/cam.JPG" class="floatpic" width="108" height="144">
 My name is Yang Yang.  I am an asssociate professor in the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am interested in developing machine learning-based algorithms and software for biological data analysis and biomedical information processing. 
 

@@ -31,8 +31,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Experience
-    url: /experience/
+  - title: Research
+    url: /research/
   - title: Skills
     url: /skills/
   - title: Education

@@ -32,13 +32,13 @@ links:
   - title: About Me
     url: /
   - title: Experience
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: Projects
-    url: /projects/
-  - title: Experience
     url: /experience/
+  - title: Skills
+    url: /skills/
+  - title: Education
+    url: /education/
+  - title: Awards
+    url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai

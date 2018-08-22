@@ -7,6 +7,7 @@ title: Education
 ### Education
 - First major in Bioinformatics and Biostatistics, Shanghai Jiao Tong University, September 2015 - Current
 
+
   Total GPA: 3.84/4.3 Rank: 1/27
 
   Freshman year: GPA: 3.66/4.3
@@ -20,6 +21,7 @@ title: Education
 
 
 - Summer session in UC Berkeley, July 2017 - August 2017
+
 
   GPA: 4.0/4.0
 

@@ -3,5 +3,9 @@ layout: page
 permalink: /skills/index.html
 title: Skills
 ---
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-<i class="fab fa-html5"></i>
+### Programming Languages
+Proficient: Python, C++， bash environment
+Familiar: R, html, CSS, JavaScript
+
+### Framework
+Django

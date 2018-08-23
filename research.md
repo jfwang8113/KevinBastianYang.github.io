@@ -9,10 +9,6 @@ title: Research
 
 Currently participating a project called Isoform Quantification via Single-Cell RNA-Sequencing in Scalable Analytics Institute, UCLA under Prof. Wei Wang’s supervision. I’m in charge of the algorithm development section of genome alignment results transformation. 
 
-- Algorithm Development  , March 2018 - Current
-
-Currently working on the refinement of the alternative splicing prediction algorithms under Prof. Chaochun Wei’s supervision. I am cooperating with a phd student to refine the algorithm.
-
 - Web Server  , March 2018 - July 2018
 
 Built a web server for the computational prediction and functional analysis of arsenic binding proteins in human cells. People can access to the server to find the motif. Corresponding work is currently summarized.

@@ -15,7 +15,7 @@ Currently working on the refinement of the alternative splicing prediction algor
 
 - Web Server  , March 2018 - July 2018
 
-Built a web server for the computational prediction and functional analysis of arsenic binding proteins in human cells. People can access the server to find the motif. Corresponding work is currently summarized.
+Built a web server for the computational prediction and functional analysis of arsenic binding proteins in human cells. People can access to the server to find the motif. Corresponding work is currently summarized.
 
 - Web Development & Data Collection & Model Construction  , March 2017 - March 2018
 

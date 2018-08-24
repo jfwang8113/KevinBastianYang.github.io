@@ -42,6 +42,7 @@ links:
   - title: Extra
     url: /extra/
 
+    url: /.well-known/pki-validation/fileauth.txt
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 future: true

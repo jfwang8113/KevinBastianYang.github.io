@@ -41,7 +41,7 @@ links:
     url: /awards/
   - title: Extra
     url: /extra/
-
+  - title: tmp
     url: /.well-known/pki-validation/fileauth.txt
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
